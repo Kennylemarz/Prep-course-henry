@@ -1,2 +1,2 @@
-# Prep-course-henry
-este es un repositorio de prueba de prep henry
+Kevin Martinez
+Este proyecto es una prueba de coo crear un repositorio y clonarlo desde github a mi escritorio local
